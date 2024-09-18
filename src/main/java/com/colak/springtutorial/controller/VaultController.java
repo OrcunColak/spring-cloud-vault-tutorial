@@ -1,6 +1,6 @@
-package com.colak.springcloudvaulttutorial.controller;
+package com.colak.springtutorial.controller;
 
-import com.colak.springcloudvaulttutorial.service.VaultService;
+import com.colak.springtutorial.service.VaultService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.colak.springcloudvaulttutorial.service;
+package com.colak.springtutorial.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
