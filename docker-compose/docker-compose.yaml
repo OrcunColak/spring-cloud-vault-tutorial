@@ -6,6 +6,7 @@ services:
     image: vault:1.13.3
     container_name: vault
     ports:
+      # http://localhost:8200/ui/vault
       - "8200:8200"
     restart: always
     environment:
